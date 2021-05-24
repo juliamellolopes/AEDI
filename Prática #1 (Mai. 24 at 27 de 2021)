@@ -29,6 +29,6 @@ int main(void){
 
 Relatório: 
 Inicialmente a função que permitia achar o maior e menor elemento do vetor possuia f(n)= 2(n-1), pois os dois ifs necessarios para achar os valores valiam 2(n-1).
-A ideia desse novo algoritimo seria colocar o vetor em ordem crescente e retirar os valores de minimo e maxímo da primeira e ultima posição, utilizando somente um if.
+A ideia desse novo algoritimo seria colocar o vetor em ordem crescente e retirar os valores de minimo e maxímo da primeira e ultima posição.
 Retornando para função principal os valores requeridos.
 Dessa forma a f(n) = 3(n-1)^2.
